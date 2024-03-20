@@ -2,8 +2,8 @@
   "users": [
     {
       "id": 1,
-      "username": "permabanxd",
-      "password": "xDSecurePass1"
+      "username": "test",
+      "password": "1234"
     },
     {
       "id": 2,
@@ -15,5 +15,10 @@
       "username": "ligmaballsuwu",
       "password": "UwUPassLigma456"
     }
+    {
+      "id": 4,
+      "username": "permabanxd",
+      "password": "xDSecurePass1"
+    },
   ]
 }
